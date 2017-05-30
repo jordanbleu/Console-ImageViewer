@@ -1,0 +1,6 @@
+c:\users\jordanbleu\documents\visual studio 2017\Projects\AI\AI\bin\Debug\AI.exe.config
+c:\users\jordanbleu\documents\visual studio 2017\Projects\AI\AI\bin\Debug\AI.exe
+c:\users\jordanbleu\documents\visual studio 2017\Projects\AI\AI\bin\Debug\AI.pdb
+c:\users\jordanbleu\documents\visual studio 2017\Projects\AI\AI\obj\Debug\AI.csprojResolveAssemblyReference.cache
+c:\users\jordanbleu\documents\visual studio 2017\Projects\AI\AI\obj\Debug\AI.exe
+c:\users\jordanbleu\documents\visual studio 2017\Projects\AI\AI\obj\Debug\AI.pdb
